@@ -7,5 +7,10 @@ Repositório contendo os projetos desenvolvidos no curso 100 Days of JS by Ewoma
 ## Ferramentas utilizadas:
 
 * HTML, 
-* CSS and 
-* JavaScript.
+* CSS
+* JavaScript,
+* React (como exercício, alguns projetos são refeitos utilizando React).
+
+## Projetos feitos:
+
+* Counter-App
